@@ -1,4 +1,4 @@
-
+//Amended by Josiah
 #ifndef _GEN_POINT_H
 #define _GEN_POINT_H
 

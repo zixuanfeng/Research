@@ -1,4 +1,4 @@
-
+//Amended by Josiah
 #ifndef _DRAW_RING_H
 #define _DRAW_RING_H
 
