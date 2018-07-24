@@ -135,9 +135,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RingVisualization.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="drawRing.h" />
+    <ClInclude Include="RingVisualization.h" />
     <ClInclude Include="generatePolygonPoints.h" />
     <ClInclude Include="loadcsv.h" />
   </ItemGroup>

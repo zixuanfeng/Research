@@ -18,15 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RingVisualization.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="drawRing.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="generatePolygonPoints.h">
       <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="loadcsv.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RingVisualization.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
