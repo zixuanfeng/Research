@@ -852,9 +852,8 @@
 #include <random>
 #include <fstream>
 #include <sstream>
-#include <gl/glut.h>
-
-#include <GL\freeglut.h>
+#include <E:\opengl\include\GL\glut.h>
+#include "E:\opengl\include\GL\freeglut.h"
 #include<GL\gl.h>
 #include<GL\GLU.h>
 #pragma comment(lib,"freeglut.lib")
